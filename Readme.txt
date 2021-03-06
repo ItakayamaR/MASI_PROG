@@ -1,3 +1,7 @@
+05/03/21
+STM
+- pmax alarm max value at 38
+
 02/10/20
 Atmega
 Timeout for communication with battery's microcontroller.
