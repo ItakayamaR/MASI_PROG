@@ -1,3 +1,6 @@
+17/03/21 (ATMEGA versión Puno)
+- Se agrego una modificación en el programa del ATMEGA para calibrar los Masis que se encuentran en puno.
+
 05/03/21 (v1.4.5)
 STM
 - pmax alarm max value at 38
