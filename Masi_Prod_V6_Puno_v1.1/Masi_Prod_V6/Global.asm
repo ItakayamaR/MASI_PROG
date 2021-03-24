@@ -884,10 +884,10 @@ linearize_FlowByHigh:
 	ror		r1
 	ror		r0
 
-	sub		yl,r0
-	sbc		yh,r1
-	sbc		xl,r2
-	sbc		xh,r3
+	add		yl,r0
+	adc		yh,r1
+	adc		xl,r2
+	adc		xh,r3
 
 	ret
 
