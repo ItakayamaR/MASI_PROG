@@ -113,7 +113,7 @@ var_struct vars[VAR_NUM] = {
   {VT, 0.0, 400,200,800, 10, 0},
   {TRIGGER, 0.0, 4,  2, 10, 1, 0},
   {FIO2, 0.0,  21, 21, 99, 1, 0},
-  {PEEP, 0.0, 0, 0, 20, 1, 0},      //debe ser con un decimal
+  {PEEP, 0.0, 0, 0, 30, 1, 0},      //debe ser con un decimal
   {PC, 0.0, 15, 10, 35, 1, 0},
   {TI, 0.0, 10, 7, 75, 1, 0},
   {PS, 0.0, 10, 5, 30, 1, 0},
