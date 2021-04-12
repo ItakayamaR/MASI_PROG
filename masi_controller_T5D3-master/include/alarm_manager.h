@@ -43,7 +43,7 @@
 
 #define CYCLE_COUNTER_THRESHOLD 4
 
-#define SILENT_ALM_TIMEOUT 60000 // Units: ms
+#define SILENT_ALM_TIMEOUT 300000 // Units: ms
 
 typedef enum
 {
